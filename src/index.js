@@ -1,9 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import * as styleFire from '@haxzie/stylefire';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// global stylesheets
+import './styles/reset.scss';
+import './styles/global.scss';
 
+// load initial theme
+styleFire.init();
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
