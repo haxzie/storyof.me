@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@haxzie/stylefire": "^1.0.6",
+    "@haxzie/stylefire": "^1.0.7",
     "node-sass": "^4.12.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
