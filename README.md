@@ -1,6 +1,6 @@
 # Storyofme
 
-> A personal blogging platform for writers and creators
+> A social blogging platform for writers and creators
 
 # Setup
 
